@@ -33,6 +33,24 @@ code {
   color: white;
 }
 
+.dark-mode .note {
+  background-color: #35366a;
+  color: white;
+}
+
+.dark-mode .note.new {
+  background-color: #38275d;
+  color: white;
+}
+
+.dark-mode textarea {
+  color: white;
+}
+
+.dark-mode textarea::placeholder {
+  color: white;
+}
+
 .notes-list {
   display: grid;
   grid-gap: 1rem;
