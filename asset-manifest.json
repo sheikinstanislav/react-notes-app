@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sheikinstanislav/react-notes-app/static/css/main.af9379ec.css",
+    "main.js": "/sheikinstanislav/react-notes-app/static/js/main.cf567ed5.js",
+    "index.html": "/sheikinstanislav/react-notes-app/index.html",
+    "main.af9379ec.css.map": "/sheikinstanislav/react-notes-app/static/css/main.af9379ec.css.map",
+    "main.cf567ed5.js.map": "/sheikinstanislav/react-notes-app/static/js/main.cf567ed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9379ec.css",
+    "static/js/main.cf567ed5.js"
+  ]
+}
